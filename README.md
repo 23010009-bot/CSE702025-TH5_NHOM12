@@ -23,7 +23,7 @@
   * Database: MySQL
   * Icon: Font Awesome
 # 3.cấu trúc dự án:
-PDA2105-CSE702025-NO6-Nhom2/
+PDA2105-CSE702025-TH5-NHOM12/
 ├── README.md
 ├── assignments/
 │   ├── assignment-1/
